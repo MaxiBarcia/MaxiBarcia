@@ -34,9 +34,8 @@ Apasionado por la ciberseguridad con una visión **360 grados**: entiendo el ata
 ### 🚀 Proyectos destacados
 
 *   **🏠 Laboratorio SIEM Casero: Wazuh en Raspberry Pi 5**: Implementación de SIEM casero. ([Lee más](https://maxibarcia.github.io/posts/project-siem-in-pi5/))
-*   **🔵 Integración Nmap-Wazuh: Detección Automatizada de Red**: Implementación de SIEM casero. ([Lee más]([https://maxibarcia.github.io/posts/project-siem-in-pi5/))
-*   **📝 Portfolio de Writeups** (`maxibarcia.github.io`): Colección detallada de resoluciones de máquinas vulnerables (HackMyVM, CTFs). Último writeup: [Ver mas...](https://maxibarcia.github.io)
-*   **🛠️ KLBRS**: Actualmente trabajando en este proyecto. *Próximamente más detalles.*
+*   **📝 Portfolio de Writeups** (`maxibarcia.github.io`): Colección detallada de resoluciones de máquinas vulnerables (HackMyVM, CTFs).
+*   **🛠️ KLBRS**: Actualmente trabajando en este proyecto.
 *   **⚙️ Scripting**: Herramientas en Python y Bash para automatización en entornos de pentesting.
 
 ### 🧠 Tecnologías y herramientas
@@ -48,11 +47,17 @@ Apasionado por la ciberseguridad con una visión **360 grados**: entiendo el ata
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Ciberseguridad**
+**Ciberseguridad (Enfoque empresarial)**
 
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005C97?style=flat-square&logo=wazuh&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-AA1100?style=flat-square&logo=crowdstrike&logoColor=white)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-000000?style=flat-square&logo=sentinelone&logoColor=white)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-F04E37?style=flat-square&logo=paloaltonetworks&logoColor=white)
+![Qualys](https://img.shields.io/badge/Qualys-3B3B3B?style=flat-square&logo=qualys&logoColor=white)
+![Tenable](https://img.shields.io/badge/Tenable-000000?style=flat-square&logo=tenable&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-008C8C?style=flat-square&logo=metasploit&logoColor=white)
 
 **DevOps & Herramientas**
@@ -60,19 +65,17 @@ Apasionado por la ciberseguridad con una visión **360 grados**: entiendo el ata
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Stats (compacto)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxiBarcia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxiBarcia&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiBarcia&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxiBarcia&show_icons=true&theme=tokyonight&hide_border=true&hide=issues&bg_color=00000000" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaxiBarcia&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="300">
 </p>
 
 ---
