@@ -29,6 +29,7 @@ Apasionado por la ciberseguridad con una visión **360 grados**: entiendo el ata
 ### 🚀 Proyectos destacados
 
 *   **🏠 SIEM casero con Wazuh en Raspberry Pi 5** · [Ver proyecto](https://maxibarcia.github.io/posts/project-siem-in-pi5/)
+*   **🔵 Integración Nmap-Wazuh: Detección Automatizada de Red** · [Ver proyecto](https://maxibarcia.github.io/posts/integration-nmap-wazuh-siem/)
 *   **📝 Portfolio de Writeups** · Resoluciones detalladas de máquinas HackMyVM, CTFs
 *   **🛠️ KLBRS** · Proyecto en curso
 *   **⚙️ Scripting** · Herramientas en Python y Bash para pentesting
