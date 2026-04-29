@@ -78,8 +78,10 @@ Apasionado por la ciberseguridad con una visión **360 grados**: entiendo el ata
 
 ### 📫 Conecta conmigo
 
-*   🌐 **Portfolio / Writeups**: [maxibarcia.github.io](https://maxibarcia.github.io)
-*   💼 **LinkedIn**: `/in/maxibarcia` 
+-   🌍 **Portfolio / Writeups**: [maxibarcia.github.io](https://maxibarcia.github.io)
+-   💼 **LinkedIn**: [/in/maxib-sec](https://www.linkedin.com/in/maxib-sec)
+-   💬 **Discord**: `kad8222`
+-   ✉️ **Email**: [maxibarcia@gmail.com](mailto:maxibarcia@gmail.com)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MaxiBarcia&label=Visitas+al+perfil&color=0e75b6&style=flat" alt="visitas">
